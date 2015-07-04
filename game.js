@@ -28,7 +28,7 @@ function paint(ctx) {
     ctx.fillStyle = 'white';
     ctx.fillRect(x, y, 100, 50);
 }
-
+//Funcion
 window.requestAnimationFrame = (function () {
     return window.requestAnimationFrame ||
         window.webkitRequestAnimationFrame ||
